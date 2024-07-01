@@ -250,6 +250,10 @@ To shut down the local Avalanche network, run:
 killall avalanche-network-runner
 
 ```
+### CONCLUSION
+- So we have created a custom virtual machine to enable users to mint and transfer tokens.
+- With the HyperSDK, we have defined the rules and functionality of our chain, including the ability to create, mint and transfer tokens .
+  
 ## Authors
 
 MIHIR  
